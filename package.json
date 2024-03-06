@@ -1,0 +1,12 @@
+{
+  "name": "schedule-list",
+  "version": "1.0.0",
+  "description": "Build a ToDo list application that allows users to categorize tasks and mark them as completed. Tasks and categories should be represented as objects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
